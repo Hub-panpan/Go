@@ -4,7 +4,7 @@
 
 ## 相关链接
 - [go语言资源网](https://studygolang.com)
-- [Golang标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
+- [《Go语言实现与标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
 
 ## Part1  《20个小时快速入门go语言》(基础必看)
 
