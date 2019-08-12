@@ -13,7 +13,7 @@
 - 开发工具：Sublime Text 3
 - 开发系统：Mac OS 10.9.*-10.10.*
 - golangstudy_base 文件为学习代码 附有详细的注释
-- **[20个小时快速入门go语言](https://www.bilibili.com/video/av20432910/ "20个小时快速入门go语言")**
+- **[20个小时快速入门go语言 B站视频](https://www.bilibili.com/video/av20432910/ "20个小时快速入门go语言")**
 
 ##  Part2：2019Golang进阶实战编程(学完基础必看)【GO语言】
 
