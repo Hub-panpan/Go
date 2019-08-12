@@ -4,7 +4,8 @@ docker-machine
 https://github.com/docker/machine/releases/
 docker-engine
 https://github.com/docker/engine/releases/
-## 源码: https://download.docker.com/linux/static/stable/
+## 源码: 
+https://download.docker.com/linux/static/stable/
 http://www.rpmfind.net/linux/rpm2html/search.php?query=docker(x86-64)
 https://download.docker.com/linux/centos/7/x86_64/stable/Packages/
 
